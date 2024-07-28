@@ -19,6 +19,7 @@
           "assets/bookmark.png",
           "assets/play.png",
           "assets/delete.png",
+          "assets/timestamp.png",
           "assets/save.png"
         ],
         "matches": ["https://*.youtube.com/*"]
@@ -26,9 +27,9 @@
     ],
     "action": {
       "default_icon": {
-        "16": "assets/ext-icon.png",
-        "24": "assets/ext-icon.png",
-        "32": "assets/ext-icon.png"
+        "16": "assets/timestamp.png",
+        "24": "assets/timestamp.png",
+        "32": "assets/timestamp.png"
       },
       "default_title": "Bookmarks YT TimeStamps",
       "default_popup": "popup.html"
